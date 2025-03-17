@@ -1,6 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/05c34880-2f6c-4ee3-8717-7aa3b5d1a521)
-![image](https://github.com/user-attachments/assets/ff3585a0-0614-4f42-b5a9-587fb3beb138)
 ![image](https://github.com/user-attachments/assets/57279f62-ad91-4f02-bf56-d4fb891a211a)
 
 #  Desenvolvimento de API REST com Spring Boot

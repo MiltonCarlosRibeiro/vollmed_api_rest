@@ -9,7 +9,8 @@ Este projeto tem como objetivo demonstrar o desenvolvimento de uma API REST comp
 
 * **CRUD (Create, Read, Update, Delete):** Implementação das quatro operações básicas para manipulação de dados. 
 * **Validações:** Utilização do Bean Validation para garantir a integridade dos dados recebidos pela API. ✅
-* **Paginação e Ordenação:** Implementação de mecanismos para otimizar a listagem de dados, permitindo a navegação e ordenação dos resultados. 
+* **Paginação e Ordenação:** Implementação de mecanismos para otimizar a listagem de dados, permitindo a navegação e ordenação dos resultados.
+* https://trello.com/b/O0lGCsKb/api-voll-med
 
 ##  Tecnologias
 
@@ -49,6 +50,8 @@ Este projeto tem como objetivo demonstrar o desenvolvimento de uma API REST comp
 ##  Considerações
 
 * Este projeto foca no desenvolvimento do backend da API, não incluindo uma interface gráfica ou frontend.
+* https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med
+  
 * Gerando um novo Cadastro por meio do Postman ou Insomia.
 {
   "nome": "Rodrigo Ferreira",

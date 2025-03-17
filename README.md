@@ -1,3 +1,8 @@
+
+![image](https://github.com/user-attachments/assets/05c34880-2f6c-4ee3-8717-7aa3b5d1a521)
+![image](https://github.com/user-attachments/assets/ff3585a0-0614-4f42-b5a9-587fb3beb138)
+![image](https://github.com/user-attachments/assets/57279f62-ad91-4f02-bf56-d4fb891a211a)
+
 #  Desenvolvimento de API REST com Spring Boot
 
 Este projeto tem como objetivo demonstrar o desenvolvimento de uma API REST completa utilizando Spring Boot 3, abordando desde a criação de um CRUD básico até conceitos mais avançados como validações, paginação e ordenação.
@@ -45,6 +50,23 @@ Este projeto tem como objetivo demonstrar o desenvolvimento de uma API REST comp
 
 ##  Considerações
 
-* Este projeto foca no desenvolvimento do backend da API, não incluindo uma interface gráfica ou frontend. ️
+* Este projeto foca no desenvolvimento do backend da API, não incluindo uma interface gráfica ou frontend.
+* Gerando um novo Cadastro por meio do Postman ou Insomia.
+{
+  "nome": "Rodrigo Ferreira",
+  "email": "rodrigo.ferreira@voll.med",
+  "telefone": "XX9XXXXXXXX",
+  "crm": "123456",
+  "especialidade": "ORTOPEDIA",
+  "endereco": {
+    "logradouro": "rua 1",
+    "bairro": "bairro",
+    "cep": "12345678",
+    "cidade": "Brasilia",
+    "uf": "DF",
+    "complemento": "complemento",
+    "numero": "1"
+  }
+} ️
 * O uso do Flyway garante o controle de versionamento do banco de dados, facilitando a evolução do projeto. 
 * O Lombok contribui para a redução da verbosidade do código, tornando-o mais limpo e legível. ✨
